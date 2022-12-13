@@ -42,13 +42,18 @@
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
-<!-- ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=ffffff) -->
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=ffffff)
 <!-- <br> -->
 
 
 ![github](https://user-images.githubusercontent.com/71402528/106022694-225cfd80-60ec-11eb-9d3d-78cf6bf8d2ef.gif)
 
 ### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=anishguruvelli&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
+</p>
+<br/>
 
 <p align="center">
 <a href="https://github.com/anishguruvelli">

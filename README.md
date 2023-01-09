@@ -13,7 +13,7 @@
 [https://anishguruvelli.github.io/anish_g/#portfolio](https://anishguruvelli.github.io/anish_g/#portfolio) 
 
 - 📝 I regularly write articles on Apex📈 
-[https://anishguruvelli.substack.com](https://anishguruvelli.substack.com). Do check it out and subsribe to receive my weekly newsletter.
+[https://anishguruvelli.substack.com](https://anishguruvelli.substack.com). Do check it out and subscribe to receive my weekly newsletter.
 
 - 📫 How to reach me **guruvellianish@gmail.com**
 
